@@ -1,0 +1,4 @@
+Component,AreaID,Description,Material,Weight
+Front Brake,frontBrake,Hydraulic disc brake,Aluminum,350g
+Rear Shock,rearShock,Air suspension system,Steel,450g
+Crankset,crankset,Hollow forged alloy,Alloy,620g

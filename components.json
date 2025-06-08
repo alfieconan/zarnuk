@@ -1,0 +1,20 @@
+{
+  "frontBrake": {
+    "Component": "Front Brake",
+    "Description": "Hydraulic disc brake",
+    "Material": "Aluminum",
+    "Weight": "350g"
+  },
+  "rearShock": {
+    "Component": "Rear Shock",
+    "Description": "Air suspension system",
+    "Material": "Steel",
+    "Weight": "450g"
+  },
+  "crankset": {
+    "Component": "Crankset",
+    "Description": "Hollow forged alloy",
+    "Material": "Alloy",
+    "Weight": "620g"
+  }
+}
